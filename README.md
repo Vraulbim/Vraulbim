@@ -9,3 +9,11 @@ Bebedouro-SP
 👨‍🎓Sou um estudante de sistemas, apaixonado por programação e outros asssuntos relacionados a tecnologia da informação.
 
 Desde muito pequeno a área de tecnologia me atraiu, então agora decidi que é isto que quero como profissão, gosto muito de aprender sempre coisas novas, e buscar acima de tudo a evolução.
+
+## Cursos e conhecimentos
+
+ * Programação C# com Visual Studio e Banco de dados SQL
+ * Programação Java com framework Spring Boot 
+ * Desenvolvimento HTML e CSS
+ * Banco de Dados (SQL)
+
