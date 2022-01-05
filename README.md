@@ -17,5 +17,7 @@ Desde muito pequeno a área de tecnologia me atraiu, então agora decidi que é 
  * Programação Java com framework Spring Boot 
  * Desenvolvimento HTML e CSS
  * Banco de Dados (SQL)
+ 
+ 
 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Vraulbim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22/%3E" /><img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vraulbim&layout=compact&langs_counts=32&theme=algolia" />
