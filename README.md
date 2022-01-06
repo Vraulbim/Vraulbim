@@ -15,8 +15,10 @@ Desde muito pequeno a área de tecnologia me atraiu, então agora decidi que é 
 
 ## Cursos e conhecimentos
 
- * Programação C# com Visual Studio e Banco de dados SQL
- * Programação Java com framework Spring Boot 
+ * <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> Desenvolvimento ASP.NET e ASP.NET Core com .Net e C#(Rest WebAPI, MVC5 e MVC Core)
+ * Conhecimento em EntityFramework e EntityFramework Core
+ * <img width=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> + <img width=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> Desenvolvimento Java com Framework Spring Boot 
+ 
  * Desenvolvimento HTML e CSS
  * Banco de Dados (SQL)
  
