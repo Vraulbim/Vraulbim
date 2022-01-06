@@ -15,12 +15,23 @@ Desde muito pequeno a área de tecnologia me atraiu, então agora decidi que é 
 
 ## Cursos e conhecimentos
 
- * <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> Desenvolvimento ASP.NET e ASP.NET Core com .Net e C#(Rest WebAPI, MVC5 e MVC Core)
- * Conhecimento em EntityFramework e EntityFramework Core
- * <img  width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> + <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> Desenvolvimento Java com Framework Spring Boot 
+ * Desenvolvimento ASP.NET e ASP.NET Core com C#(Rest WebAPI, MVC5 e MVC Core) <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img width=3% src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-snippet-pack/1.51.0/1586892181474/Microsoft.VisualStudio.Services.Icons.Default" />
  
- * Desenvolvimento HTML e CSS
- * Banco de Dados (SQL)
+   * EntityFramework e EntityFramework Core
+ 
+ * Desenvolvimento Java com Framework Spring Boot <img  width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+ 
+ * Desenvolvimento HTML, CSS e JavaScript <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ 
+ * Banco de Dados (SQL) : PostgreSQL, Microsoft SQL Server e MySQL <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ 
+ * Desenvolvimento Angular com TypeScript <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img width=3% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ 
+ * Fundamentos em Arquiteturas de Software
+ 
+ * Modelagem de Domínios Ricos
+ 
+ 
  
  
 
