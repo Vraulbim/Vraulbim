@@ -9,7 +9,7 @@ Bebedouro-SP
 ## Sobre mim: 
 👨‍🎓Sou um estudante de sistemas, apaixonado por programação e outros asssuntos relacionados a tecnologia da informação.
 
-Desde muito pequeno a área de tecnologia me atraiu, então agora decidi que é isto que quero como profissão, gosto muito de aprender sempre coisas novas, e buscar acima de tudo a evolução.
+Desde muito pequeno a área de tecnologia me atraiu, então agora decidi que é isto que quero como profissão, gosto muito de aprender coisas novas, e buscar acima de tudo a evolução.
 
 
 
