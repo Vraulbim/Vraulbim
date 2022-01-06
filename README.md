@@ -30,7 +30,7 @@ Desde muito pequeno a área de tecnologia me atraiu, então agora decidi que é 
  * Modelagem de Domínios Ricos
  
  
+ ## Outras tecnologias e interesses
  
- 
-
+ <img width=9% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> &nbsp;    <img width=9% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />    &nbsp;   <img width=9% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  &nbsp;  <img width=9% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
 
