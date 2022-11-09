@@ -2,9 +2,9 @@
 
 Bebedouro-SP
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/vitorraulbim/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Vraulbim)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/vitorraulbim/)    [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Vraulbim)
 
-<img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Vraulbim&show_icons=true&theme=drácula&include_all_commits=true&count_private=true%22/%3E" /><img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vraulbim&layout=compact&langs_counts=32&theme=drácula" />
+<img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Vraulbim&show_icons=true&theme=drácula&include_all_commits=true&count_private=true%22/%3E" />   <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vraulbim&layout=compact&langs_counts=32&theme=drácula" />
 
 ## Sobre mim: 
 👨‍🎓Sou um estudante de sistemas, apaixonado por programação e outros asssuntos relacionados a tecnologia da informação.
